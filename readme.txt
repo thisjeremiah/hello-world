@@ -1,1 +1,1 @@
-This is a text document waiting to be read.
+This is a text document that has been revised.
